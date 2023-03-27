@@ -1,3 +1,4 @@
 # Servlet-DB
 connectivity with DB using Servlet 
-![servletdb](https://user-images.githubusercontent.com/57632430/227923426-b31368bb-d699-485d-b72d-11774d44c4c1.gif)
+
+![servletdb](https://user-images.githubusercontent.com/57632430/227924659-f7e09d16-7425-4cbf-85c0-23ee88e2791e.gif)
